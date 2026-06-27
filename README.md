@@ -1,5 +1,4 @@
 # japanese-kanji-tester
-A kanji tester for USYD JPNS2622 back in 2016
 
 This application tests your Japanese kanji vocabulary based on the University of Sydney's JPNS2622 course (2016). Whenever you get a kanji pronunciation wrong, it automatically adds it to a review list (wrong-answer notebook) for later practice.
 
